@@ -1,3 +1,5 @@
+# Student ID : 10959684
+# Gideon Bekoe
 primeNum = []
 
 number=int(input("Enter Number: "))
